@@ -1,0 +1,21 @@
+{
+  "name": "Owly #4885",
+  "symbol": "OWLY",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeiflrtzxqto2uvp7yvwtftt6yquj7pqykmojbcfhrept7d5623yk3i.ipfs.nftstorage.link%2F0.png%3Fext%3Dpng",
+  "attributes": [
+  {
+      "trait_type": "Attributes",
+      "value": "Hidden"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
